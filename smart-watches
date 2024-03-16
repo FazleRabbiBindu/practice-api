@@ -23,5 +23,215 @@
     "id": 5,
     "name": "Huawei Watch GT 2 Pro",
     "price": 299.99
+  },
+  {
+    "id": 6,
+    "name": "Fossil Gen 5",
+    "price": 295.00
+  },
+  {
+    "id": 7,
+    "name": "Amazfit GTS 2",
+    "price": 179.99
+  },
+  {
+    "id": 8,
+    "name": "TicWatch Pro 3",
+    "price": 299.99
+  },
+  {
+    "id": 9,
+    "name": "Garmin Forerunner 945",
+    "price": 599.99
+  },
+  {
+    "id": 10,
+    "name": "Polar Vantage V2",
+    "price": 499.00
+  },
+  {
+    "id": 11,
+    "name": "Xiaomi Mi Watch",
+    "price": 99.99
+  },
+  {
+    "id": 12,
+    "name": "Suunto 7",
+    "price": 499.00
+  },
+  {
+    "id": 13,
+    "name": "Casio G-Shock GBD-H1000",
+    "price": 399.99
+  },
+  {
+    "id": 14,
+    "name": "Oppo Watch",
+    "price": 299.99
+  },
+  {
+    "id": 15,
+    "name": "Tag Heuer Connected",
+    "price": 1890.00
+  },
+  {
+    "id": 16,
+    "name": "Sony SmartWatch 3",
+    "price": 249.99
+  },
+  {
+    "id": 17,
+    "name": "LG Watch W7",
+    "price": 449.99
+  },
+  {
+    "id": 18,
+    "name": "Withings Steel HR Sport",
+    "price": 199.95
+  },
+  {
+    "id": 19,
+    "name": "Fossil Hybrid HR",
+    "price": 195.00
+  },
+  {
+    "id": 20,
+    "name": "Garmin Fenix 6X Pro",
+    "price": 749.99
+  },
+  {
+    "id": 21,
+    "name": "Mobvoi TicWatch E3",
+    "price": 199.99
+  },
+  {
+    "id": 22,
+    "name": "Diesel On Full Guard 2.5",
+    "price": 325.00
+  },
+  {
+    "id": 23,
+    "name": "Misfit Vapor X",
+    "price": 279.99
+  },
+  {
+    "id": 24,
+    "name": "Casio Pro Trek WSD-F30",
+    "price": 549.99
+  },
+  {
+    "id": 25,
+    "name": "Skagen Falster 3",
+    "price": 295.00
+  },
+  {
+    "id": 26,
+    "name": "Emporio Armani Smartwatch 3",
+    "price": 375.00
+  },
+  {
+    "id": 27,
+    "name": "Garmin Vivomove HR",
+    "price": 199.99
+  },
+  {
+    "id": 28,
+    "name": "Xiaomi Mi Band 6",
+    "price": 49.99
+  },
+  {
+    "id": 29,
+    "name": "TicWatch S2",
+    "price": 179.99
+  },
+  {
+    "id": 30,
+    "name": "Suunto 9 Baro",
+    "price": 599.00
+  },
+  {
+    "id": 31,
+    "name": "Pebble Time Steel",
+    "price": 199.99
+  },
+  {
+    "id": 32,
+    "name": "Polar Ignite",
+    "price": 229.95
+  },
+  {
+    "id": 33,
+    "name": "Xiaomi Mi Band 5",
+    "price": 39.99
+  },
+  {
+    "id": 34,
+    "name": "Fitbit Sense",
+    "price": 299.95
+  },
+  {
+    "id": 35,
+    "name": "Amazfit Bip U",
+    "price": 59.99
+  },
+  {
+    "id": 36,
+    "name": "Fossil Sport",
+    "price": 275.00
+  },
+  {
+    "id": 37,
+    "name": "Garmin Lily",
+    "price": 199.99
+  },
+  {
+    "id": 38,
+    "name": "Diesel On Axial",
+    "price": 350.00
+  },
+  {
+    "id": 39,
+    "name": "Mobvoi TicWatch GTX",
+    "price": 59.99
+  },
+  {
+    "id": 40,
+    "name": "Samsung Galaxy Watch Active",
+    "price": 199.99
+  },
+  {
+    "id": 41,
+    "name": "Withings Move",
+    "price": 69.95
+  },
+  {
+    "id": 42,
+    "name": "Xiaomi Mi Watch Lite",
+    "price": 69.99
+  },
+  {
+    "id": 43,
+    "name": "Suunto Spartan Sport Wrist HR",
+    "price": 499.00
+  },
+  {
+    "id": 44,
+    "name": "Garmin Approach S62",
+    "price": 499.99
+  },
+  {
+    "id": 45,
+    "name": "Polar Vantage M",
+    "price": 279.95
+  },
+  {
+    "id": 46,
+    "name": "Amazfit Bip S",
+    "price": 69.99
+  },
+  {
+    "id": 47,
+    "name": "Fitbit Ionic",
+    "price": 249.95
   }
 ]
